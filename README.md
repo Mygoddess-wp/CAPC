@@ -17,16 +17,16 @@ To generate and run experiments on toy synthetic trajectories (sine curve and pa
 
 ```matlab
 ./code/genData_main.m
-
+```
 ### 2. SO(3) Rotation Dataset
 
 To run experiments on the SO(3) rotation dataset, execute:
 ```matlab
 ./code/gen_so3_exper.m
-
+```
 ### 3. Human Skeleton Dataset
 
 To run experiments on the human skeleton motion dataset, execute:
 ```matlab
 ./code/script_run_ppcData.m
-
+```
